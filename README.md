@@ -1,4 +1,6 @@
 # MiWifi-SSH
 小米路由器通过Sn获取SSH登录密码HTML版
+使用方法：下载下来浏览器打开html即可
 
-![主题封面](https://s2.loli.net/2022/09/17/X1gjE4BMmYthKof.png)
+python版本（网上大多数是在线js版，懒得自己弄npm的，直接用ai改成python代码可本地运行）
+使用方法：.\SN2sshpasswd.py SN码
